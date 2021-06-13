@@ -70,8 +70,8 @@
 
 <h2> Mein Social Media: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.twitter.com/MaxGT50000'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/MaximilianGT500'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-  
+<a href = 'https://www.github.com/MaximilianGT500'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
   
 <h2> Meine Github Stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=maximiliangt500&show_icons=true&locale=en" alt="maximiliangt500" /></a>
@@ -80,9 +80,13 @@
 
 <h2> Support: </h2>
 <p><a href="https://www.buymeacoffee.com/maximiliangt500"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maximiliangt500" /></a></p><br><br>
+<img src="https://raw.githubusercontent.com/MaximilianGT500/MaximilianGT500/main/taiga.gif" alt="cover" />
 
   
 <h2> Etwas Programmier-Humor für dich: <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+  
+<h1> Danke, dass du hier warst <3 </h1>
+<img align="center" src="https://raw.githubusercontent.com/MaximilianGT500/MaximilianGT500/main/ty.gif" alt="cover" />
 <br>
