@@ -73,10 +73,18 @@
 <a href = 'https://www.github.com/MaximilianGT500'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
   
+<h2> Coding Stats: <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@MaximilianGT500&compact=True"/>
+</a>
+<br>
+  
+  
 <h2> Meine Github Stats: <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+  <a><img align="center" src="https://metrics.lecoq.io/MaximilianGT500?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto" alt="maximiliangt500" /></a>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=maximiliangt500&show_icons=true&locale=en" alt="maximiliangt500" /></a>
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximiliangt500&" alt="maximiliangt500" /></a>
-  
+
 
 <h2> Support: </h2>
 <p><a href="https://www.buymeacoffee.com/maximiliangt500"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maximiliangt500" /></a></p><br><br>
