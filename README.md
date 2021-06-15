@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/MaximilianGT500/MaximilianGT500/main/banner.gif" alt="cover" />
-<img src="https://raw.githubusercontent.com/MaximilianGT500/MaximilianGT500/main/banner.gif" alt="cover" />
+<img src="https://MaximilianGT500.de/Banner.gif" alt="cover" />
+<img src="https://MaximilianGT500.de/Banner.gif" alt="cover" />
 <img src="https://img.shields.io/discord/576695432718057472?label=Discord&style=for-the-badge" alt="cover" />
 <img src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2FMaximilianGT500.de" alt="cover" />
 </div>
