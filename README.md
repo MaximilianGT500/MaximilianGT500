@@ -1,13 +1,12 @@
 <div align="center">
 <img src="https://MaximilianGT500.de/Banner.gif" alt="cover" />
-<img src="https://img.shields.io/discord/576695432718057472?label=Discord&style=for-the-badge" alt="cover" />
-<img src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2FMaximilianGT500.de" alt="cover" />
 </div>
 
 <h1> Hallo an alle < Developer/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MaximilianGT500.MaximilianGT500)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MaximilianGT500.MaximilianGT500)<img src="https://img.shields.io/discord/576695432718057472?label=discord&plastic" alt="cover" /><img src="https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=https%3A%2F%2FMaximilianGT500.de&plastic" alt="cover" />
+  
 </p>
 <div size='20px'> Hi! Mein Name ist MaximilianGT500. Vielen Dank, dass du dir die Zeit genommen hast, mein GitHub-Profil anzusehen :smile: 
 </div>
@@ -76,55 +75,6 @@
   
 <h2> Coding Stats: <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <!--START_SECTION:waka-->
-**Ich bin eine Nachteule 🦉** 
-
-```text
-🌞 Morgens    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Mittags    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Abends     62 commits     █████████████████████████   100.0% 
-🌙 Nachts     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **Ich bin am Sonntag am produktivsten** 
-
-```text
-Montag       12 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
-Dienstag     11 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
-Mittwoch     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Donnerstag   0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Freitag      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Samstag      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sonntag      39 commits     ███████████████░░░░░░░░░░   62.9%
-
-```
-
-
-📊 **Diese Woche habe ich meine Zeit damit verbracht** 
-
-```text
-⌚︎ Zeitzone: Europe/Berlin
-
-💬 Programmiersprachen: 
-Python                   13 mins             █████████████████░░░░░░░░   70.44% 
-Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.99% 
-HTML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.47% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-🔥 Editoren: 
-Notepad++                19 mins             █████████████████████████   100.0%
-
-💻 Betriebssystem: 
-Windows                  19 mins             █████████████████████████   100.0%
-
-```
-
-**Zeitleiste**
-
-![Chart not found](https://raw.githubusercontent.com/MaximilianGT500/MaximilianGT500/main/charts/bar_graph.png) 
-
-
- Last Updated on 15/06/2021
 <!--END_SECTION:waka-->
 </a>
 <br>
