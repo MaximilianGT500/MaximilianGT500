@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://CDN.M16K.de/maximiliangt500.de/Banner.gif" alt="cover" />
+<img src="https://raw.githubusercontent.com/MaximilianGT500/MaximilianGT500/main/banner.gif" alt="cover" />
 </div>
 
 <h1> Hallo an alle < Developer/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
