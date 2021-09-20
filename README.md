@@ -104,18 +104,18 @@ Sonntag      41 commits     ███████████████░░�
 ⌚︎ Zeitzone: Europe/Berlin
 
 💬 Programmiersprachen: 
-Diese Woche wurde keine Aktivität gespeichert
+C#                       2 mins              █████████████████████████   100.0%
 
 🔥 Editoren: 
-Diese Woche wurde keine Aktivität gespeichert
+Visual Studio            2 mins              █████████████████████████   100.0%
 
 💻 Betriebssystem: 
-Diese Woche wurde keine Aktivität gespeichert
+Windows                  2 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 19/09/2021
+ Last Updated on 20/09/2021
 <!--END_SECTION:waka-->
 </a>
 <br>
