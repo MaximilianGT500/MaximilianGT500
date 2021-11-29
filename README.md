@@ -104,15 +104,13 @@ Sonntag      37 commits     ██████████████░░░�
 ⌚︎ Zeitzone: Europe/Berlin
 
 💬 Programmiersprachen: 
-C#                       7 mins              █████████████████████████   100.0% 
-Blender                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Diese Woche wurde keine Aktivität gespeichert
 
 🔥 Editoren: 
-Visual Studio            7 mins              █████████████████████████   100.0% 
-Blender                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Diese Woche wurde keine Aktivität gespeichert
 
 💻 Betriebssystem: 
-Windows                  7 mins              █████████████████████████   100.0%
+Diese Woche wurde keine Aktivität gespeichert
 
 ```
 
