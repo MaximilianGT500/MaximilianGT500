@@ -75,6 +75,8 @@
   
 <h2> Coding Stats: <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2026%20mins-blue)
+
 **Ich bin eine Nachteule 🦉** 
 
 ```text
@@ -104,13 +106,14 @@ Sonntag      36 commits     ██████████████░░░�
 ⌚︎ Zeitzone: Europe/Berlin
 
 💬 Programmiersprachen: 
-Diese Woche wurde keine Aktivität gespeichert
+Blender                  24 mins             ████████████████████░░░░░   81.39% 
+Other                    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.61%
 
 🔥 Editoren: 
-Diese Woche wurde keine Aktivität gespeichert
+Blender                  29 mins             █████████████████████████   100.0%
 
 💻 Betriebssystem: 
-Diese Woche wurde keine Aktivität gespeichert
+Windows                  29 mins             █████████████████████████   100.0%
 
 ```
 
