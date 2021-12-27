@@ -75,8 +75,6 @@
   
 <h2> Coding Stats: <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2026%20mins-blue)
-
 **Ich bin eine Nachteule 🦉** 
 
 ```text
@@ -117,7 +115,7 @@ Diese Woche wurde keine Aktivität gespeichert
 ```
 
 
- Last Updated on 26/12/2021
+ Last Updated on 27/12/2021
 <!--END_SECTION:waka-->
 </a>
 <br>
