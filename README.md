@@ -2,4 +2,4 @@
   
 ![Nezuko](https://anime.gdn/demon-slayer/random/nezuko?)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MaximilianGT500.MaximilianGT500)
+![COUNTER](https://count.getloli.com/get/@maximiliangt500)
