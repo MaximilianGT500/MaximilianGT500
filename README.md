@@ -2,4 +2,4 @@
   
 ![Nezuko](https://anime.gdn/demon-slayer/random/nezuko?)
 
-![COUNTER](https://count.getloli.com/get/@maximiliangt500)
+![COUNTER](https://counter.max.srl/get/@maximiliangt500?theme=asoul)
