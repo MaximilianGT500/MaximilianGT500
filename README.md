@@ -4,4 +4,4 @@
 
 <h2>Github Profile Views</h2>
 
-![COUNTER](https://counter.moe.max.srl/get/@maximiliangt500?theme=asoul)
+![COUNTER](https://counter.max.srl/get/@maximiliangt500?theme=asoul)
