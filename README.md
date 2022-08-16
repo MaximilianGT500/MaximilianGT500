@@ -5,3 +5,4 @@
 <h2>Github Profile Views</h2>
 
 ![COUNTER](https://counter.max.srl/get/@maximiliangt500?theme=asoul)
+<h3>Erstelle deinen eigenen Counter: https://counter.max.srl/</h3>
