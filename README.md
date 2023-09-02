@@ -34,6 +34,15 @@
 </details>
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript      5 hrs 5 mins    ██████████▒░░░░░░░░░░░░░░   40.84 %
+HTML            3 hrs 26 mins   ███████░░░░░░░░░░░░░░░░░░   27.58 %
+YAML            56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Bash            54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Markdown        46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://img.anili.st/user/611425" width="500">
