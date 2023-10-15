@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="#" target="_blank"><img alt="LOGO" src="https://maxi.lol/data/img/banner-v1.png"></a>
+    <a href="#" target="_blank"><img alt="LOGO" src="https://m-s.moe/assets/img/banner-v1.png"></a>
     <h3>Willkommen auf meinem Profil!</h3>
 </div>
 <h1></h1>
