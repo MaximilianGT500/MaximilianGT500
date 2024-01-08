@@ -6,7 +6,7 @@
 
 :star: Hier kannst du meine aktuellen Projekte sehen:
 - [MAX.SRL](https://max.srl) :star:
-- [MAXI.LOL](https://maxi.lol) :star:
+- [M-S.MOE](https://m-s.moe) :star:
 - [Booru.ME](https://booru.me)
 - [FS-DB.EU](https://fs-db.eu)
 - [IP-API.EU](https://ip-api.eu)
@@ -15,7 +15,9 @@
 - [MoeBooru.NET](https://moebooru.net)
 - [MoeList.DE (Nur die Website)](https://moelist.net)
 - [MoeShare.DE](https://moeshare.de)
+- [MOE.SOCIAL](https://moe.social)
 - [N-SFW.COM](https://n-sfw.com)
+- [RUKA-SARASHINA.MOE](https://ruka-sarashina.moe)
 - [Wattpad.CC](https://wattpad.cc)
 - [S3.INK](https://s3.ink)
 <h1></h1>
