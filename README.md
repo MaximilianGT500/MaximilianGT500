@@ -5,7 +5,7 @@
 <h1></h1>
 
 :star: Hier kannst du meine aktuellen Projekte sehen:
-- [MAX.SRL](https://max.srl) :star:
+- [Lunoxia.DE](https://lunoxia.de) :star:
 - [M-S.MOE](https://m-s.moe) :star:
 - [Booru.ME](https://booru.me)
 - [FS-DB.EU](https://fs-db.eu)
