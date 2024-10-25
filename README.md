@@ -5,17 +5,17 @@
 <h1></h1>
 
 :star: Hier kannst du meine aktuellen Projekte sehen:
-- [Lunoxia.DE](https://lunoxia.de) :star:
+- [Lunoxia.NET](https://lunoxia.net) :star:
 - [M-S.MOE](https://m-s.moe) :star:
 - [Booru.ME](https://booru.me)
 - [FS-DB.EU](https://fs-db.eu)
 - [IP-API.EU](https://ip-api.eu)
 - [Kitsune.MOE](https://kitsune.moe)
 - [Lunar.ICU](https://lunar.icu)
-- [MoeBooru.NET](https://moebooru.net)
 - [MoeList.DE (Nur die Website)](https://moelist.net)
 - [MoeShare.DE](https://moeshare.de)
 - [MOE.SOCIAL](https://moe.social)
+- [NextCloud-Installer.DE](https://nextcloud-installer.de)
 - [N-SFW.COM](https://n-sfw.com)
 - [RUKA-SARASHINA.MOE](https://ruka-sarashina.moe)
 - [Wattpad.CC](https://wattpad.cc)
