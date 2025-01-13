@@ -26,7 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP              3 mins          ████████████▓░░░░░░░░░░░░   50.43 %
+JSON             1 min           █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+TypeScript       1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
+Vue.js           0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Blade Template   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
