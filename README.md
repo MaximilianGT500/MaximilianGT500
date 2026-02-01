@@ -45,5 +45,5 @@ No activity tracked
 <p>API: https://api-random.n-sfw.com/sfw/your-name</p>
 
 <h1></h1>
-<img src="https://counter.max.srl/get/@maximiliangt500?theme=asoul">
+<img src="https://counter.lunoxia.net/get/@maximiliangt500?theme=asoul">
 <p>Erstelle deinen eigenen Counter: https://counter.max.srl/</p>
